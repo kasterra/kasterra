@@ -1,5 +1,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasterra&show_icons=true&theme=radical)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kasterra)](https://github.com/anuraghazra/github-readme-stats)
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hc19991003)
 - 경북대학교 컴퓨터학부 학생입니다.
 - GDSC KNU 1기 프론트 트랙에서 열심히 활동하고 있습니다.
